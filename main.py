@@ -1,6 +1,7 @@
 import pygame
 import sys
 from settings import *
+from game import Game
 
 def main():
   pass
